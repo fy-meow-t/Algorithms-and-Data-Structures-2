@@ -16,8 +16,6 @@ import java.util.List;
  *
  * Assumption: the searching input will not include punctuation, aside from apostrophes inside a word.
  * 			   the index file and stop words file are correctly formatted.
- * 
- * @author Feiyue Tao s4473404
  */
 public class AutoTester implements Search {
 
