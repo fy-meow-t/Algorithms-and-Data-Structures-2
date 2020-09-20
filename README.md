@@ -1,7 +1,7 @@
 # Algorithms-and-Data-Structures-2
 Assignment 2 in semester 2, 2018 (second year) with full marks. A general textual search application to search on a single document or collection of documents.
 
-Two test files under tst.comp3506.assn2.testdriver to test the functionalities.
+A test file under tst.comp3506.assn2.testdriver to test the functionalities.
 
 The application is in tst.comp3506.assn2.application.AutoTester whose methods perform the following searches:
 1. Count the number of occurrences of a word.
